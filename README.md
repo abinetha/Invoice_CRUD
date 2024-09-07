@@ -36,12 +36,12 @@ The **Invoice CRUD System** is a robust and efficient web application built usin
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/username/invoice-crud-system.git
+    git clone https://github.com/abinetha/Invoice_CRUD.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd invoice-crud-system
+    cd Invoice_CRUD
     ```
 
 3. **Install dependencies**:
