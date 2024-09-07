@@ -72,5 +72,7 @@ This project demonstrates the implementation of a highly useful backend system, 
 ---
 
 **Author**: Abineth Anantharam  
+
 **Website**: [linktr.ee/abineth](https://linktr.ee/abineth)
+
 **Coding Profile**: [clist.by/coder/abineth/](https://clist.by/coder/abineth/)
